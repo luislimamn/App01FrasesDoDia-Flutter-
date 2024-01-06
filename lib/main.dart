@@ -66,6 +66,20 @@ class _HomeState extends State<Home> {
                 color: Colors.black
               ),
             ),
+            ElevatedButton(
+              child: const Text(
+                "Nova Frase",
+                style: TextStyle(
+                    fontSize: 25,
+                    color: Colors.green,
+                  fontWeight: FontWeight.bold
+                ),
+              ),
+              //color: Colors.orange,
+              //padding: EdgeInsets.fromLTRB(30, 15, 30, 15),
+              onPressed: _gerarFrases,
+            )
+            /*
             RaisedButton(
               child: Text(
                 "Nova Frase",
@@ -78,6 +92,8 @@ class _HomeState extends State<Home> {
               color: Colors.green,
               onPressed: _gerarFrases,
             )
+
+             */
           ],
         ),
       ),
