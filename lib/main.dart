@@ -22,6 +22,7 @@ class _HomeState extends State<Home> {
     "A coragem não é ausência do medo; é a persistência apesar do medo.",
     "O futuro pertence àqueles que acreditam na beleza de seus sonhos.",
     "O preço da perfeição é a prática constante.",
+    "Teste da Versão 2025.",
     "Só erra quem produz, mas só produz quem não tem medo de errar.",
     "O sucesso é ir de fracasso em fracasso sem perder o entusiasmo.",
     "No meio da dificuldade encontra-se a oportunidade.",
