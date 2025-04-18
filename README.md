@@ -1,6 +1,6 @@
 # frases_do_dia
 
-App 01 - Frases do Dia (Flutter)
+App Gerador de Frases para inspirar seu Dia.
 
 ## Getting Started
 
